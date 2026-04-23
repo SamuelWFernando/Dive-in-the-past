@@ -41,7 +41,12 @@ Il team ha adottato la metodologia Scrum per l'organizzazione del lavoro:
 --- 
 
 #### *Nota bene: 
-Alcune parti di codice sono stati generati con l'assistenza di ChatGPT e Google Gemini 3 Pro. Il codice e' stato controllato e testato da [Andrei Adam], [Cristiano Moldovan], [Luca Tonoli], [Nipun Samuel Warnakulasuriya Arachchilage Fernando] in data [2026-04-23]*
+Alcune parti di codice sono stati generati con l'assistenza di ChatGPT Google Gemini 3 Pro e Claude 4.6 Sonnet. Il codice e' stato controllato e testato da [Andrei Adam], [Cristiano Moldovan], [Luca Tonoli], [Nipun Samuel Warnakulasuriya Arachchilage Fernando] in data [2026-04-23]*
+
+#### Credits:
+
+- Immagini: Google Gemini 3 Pro (Nano Banana 2)
+- Designed by rawpixel.com / [[Freepik](https://it.freepik.com/vettori-gratuito/illustrazione-di-una-ruota-dentata_2609999.htm#fromView=keyword&page=1&position=0&uuid=3d7cb913-3073-4bc7-bd6b-2d56864b30b9&query=Ingranaggio+png)]
 
 
 
