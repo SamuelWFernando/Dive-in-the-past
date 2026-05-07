@@ -16,7 +16,7 @@ Il giocatore deve aiutare Alberto a recuperare i materiali necessari per riparar
 * **Scuola:** Istituto Tecnico Industriale Statale (ITIS) "G. Marconi"
 * **Sede:** Piazzale Guardini, 1 - 37138 Verona (VR)
 * **Classe:** 3BI - A.S. 2025 - 2026
-* **Data:** 23 Aprile 2026
+* **Data:** 7 Maggio 2026
 
 ---
 
